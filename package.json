@@ -1,0 +1,19 @@
+{
+  "name": "languageguesser",
+  "version": "1.0.0",
+  "description": "About",
+  "main": "CLI tools that uses Franc and Lang NPM packages to guess the natural language of given user input.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreyJamesLynch/LanguageGuesser.git"
+  },
+  "author": "Corey Lynch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreyJamesLynch/LanguageGuesser/issues"
+  },
+  "homepage": "https://github.com/CoreyJamesLynch/LanguageGuesser#readme"
+}
