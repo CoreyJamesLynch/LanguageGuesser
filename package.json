@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/CoreyJamesLynch/LanguageGuesser/issues"
   },
-  "homepage": "https://github.com/CoreyJamesLynch/LanguageGuesser#readme"
+  "homepage": "https://github.com/CoreyJamesLynch/LanguageGuesser#readme",
+  "dependencies": {
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
 }
